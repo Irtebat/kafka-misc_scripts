@@ -1,0 +1,18 @@
+{
+    "name": "sample.record",
+    "type": "record",
+    "fields": [
+        {
+            "name": "field_int",
+            "type": "int"
+        },
+        {
+            "name": "field_str",
+            "type": "string"
+        },
+        {
+            "name": "timestamp",
+            "type": "string"
+        }
+    ]
+}
